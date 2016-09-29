@@ -1,0 +1,5 @@
+IntelliJ IDEA:
+/usr/bin/idea/bin/idea.sh	# will configure application on first start
+
+SoapUI:
+/usr/bin/SoapUI/bin/soapui.sh	# 
